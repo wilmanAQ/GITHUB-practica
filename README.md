@@ -10,5 +10,7 @@ Disciplina
  # LA DISCIPLINA ES LA MEJOR HERRAMIENTA QUE TIENE EL HOMBRE PARA LOGRAR LA QUE QUIERA.
  # TRABAJO DURO
  Es la forma que tiene para hacerse un gran maestro
+ # desde el local
+ Este es un pull request 
 
 
