@@ -12,5 +12,7 @@ Disciplina
  Es la forma que tiene para hacerse un gran maestro
  # desde el local
  Este es un pull request 
+ # Desde la web
+ Este pull request se reializó desde la web
 
 
